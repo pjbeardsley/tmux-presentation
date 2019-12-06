@@ -1,2 +1,9 @@
 # tmux-presentation
-TMUX presentation slides
+
+
+Reveal.js presentation.
+
+## Installation
+
+- `npm install -g reveal.js`
+- `brew install pandoc`
