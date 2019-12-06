@@ -7,3 +7,4 @@ Reveal.js presentation.
 
 - `npm install -g reveal.js`
 - `brew install pandoc`
+- `./build.sh`
